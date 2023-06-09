@@ -1,0 +1,15 @@
+// export default [
+//     'num-0 red', 'num-1 red', 'num-1 red', 'num-2 red', 'num-2 red', 'num-3 red', 'num-3 red', 'num-4 red', 'num-4 red', 'num-5 red', 'num-5 red', 'num-6 red', 'num-6 red', 'num-7 red', 'num-7 red', 'num-8 red', 'num-8 red', 'num-9 red', 'num-9 red', 'skip red', 'skip red', 'reverse red', 'reverse red', 'draw red', 'draw red',
+//     'num-0 green', 'num-1 green', 'num-1 green', 'num-2 green', 'num-2 green', 'num-3 green', 'num-3 green', 'num-4 green', 'num-4 green', 'num-5 green', 'num-5 green', 'num-6 green', 'num-6 green', 'num-7 green', 'num-7 green', 'num-8 green', 'num-8 green', 'num-9 green', 'num-9 green', 'skip green', 'skip green', 'reverse green', 'reverse green', 'draw green', 'draw green',
+//     'num-0 blue', 'num-1 blue', 'num-1 blue', 'num-2 blue', 'num-2 blue', 'num-3 blue', 'num-3 blue', 'num-4 blue', 'num-4 blue', 'num-5 blue', 'num-5 blue', 'num-6 blue', 'num-6 blue', 'num-7 blue', 'num-7 blue', 'num-8 blue', 'num-8 blue', 'num-9 blue', 'num-9 blue', 'skip blue', 'skip blue', 'reverse blue', 'reverse blue', 'draw blue', 'draw blue',
+//     'num-0 yellow', 'num-1 yellow', 'num-1 yellow', 'num-2 yellow', 'num-2 yellow', 'num-3 yellow', 'num-3 yellow', 'num-4 yellow', 'num-4 yellow', 'num-5 yellow', 'num-5 yellow', 'num-6 yellow', 'num-6 yellow', 'num-7 yellow', 'num-7 yellow', 'num-8 yellow', 'num-8 yellow', 'num-9 yellow', 'num-9 yellow', 'skip yellow', 'skip yellow', 'reverse yellow', 'reverse yellow', 'draw yellow', 'draw yellow',
+//     'draw-4 black', 'draw-4 black', 'draw-4 black', 'draw-4 black'
+// ]
+
+export default [
+    'num-0 red', 'num-1 red', 'num-1 red', 'num-2 red', 'num-2 red', 'num-3 red', 'num-3 red', 'num-4 red', 'num-4 red', 'num-5 red', 'num-5 red', 'num-6 red', 'num-6 red', 'num-7 red', 'num-7 red', 'num-8 red', 'num-8 red', 'num-9 red', 'num-9 red', 'skip red', 'skip red', 'reverse red', 'reverse red', 'draw red', 'draw red',
+    'num-0 green', 'num-1 green', 'num-1 green', 'num-2 green', 'num-2 green', 'num-3 green', 'num-3 green', 'num-4 green', 'num-4 green', 'num-5 green', 'num-5 green', 'num-6 green', 'num-6 green', 'num-7 green', 'num-7 green', 'num-8 green', 'num-8 green', 'num-9 green', 'num-9 green', 'skip green', 'skip green', 'reverse green', 'reverse green', 'draw green', 'draw green',
+    'num-0 blue', 'num-1 blue', 'num-1 blue', 'num-2 blue', 'num-2 blue', 'num-3 blue', 'num-3 blue', 'num-4 blue', 'num-4 blue', 'num-5 blue', 'num-5 blue', 'num-6 blue', 'num-6 blue', 'num-7 blue', 'num-7 blue', 'num-8 blue', 'num-8 blue', 'num-9 blue', 'num-9 blue', 'skip blue', 'skip blue', 'reverse blue', 'reverse blue', 'draw blue', 'draw blue',
+    'num-0 yellow', 'num-1 yellow', 'num-1 yellow', 'num-2 yellow', 'num-2 yellow', 'num-3 yellow', 'num-3 yellow', 'num-4 yellow', 'num-4 yellow', 'num-5 yellow', 'num-5 yellow', 'num-6 yellow', 'num-6 yellow', 'num-7 yellow', 'num-7 yellow', 'num-8 yellow', 'num-8 yellow', 'num-9 yellow', 'num-9 yellow', 'skip yellow', 'skip yellow', 'reverse yellow', 'reverse yellow', 'draw yellow', 'draw yellow',
+    'draw-4 black', 'draw-4 black', 'draw-4 black', 'draw-4 black'
+]
